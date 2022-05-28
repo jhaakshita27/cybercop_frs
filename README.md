@@ -99,7 +99,7 @@ If the criminal's image is recognised then we can retrieve the information about
 
 ## Resources Used
 
-* Information about criminals stored in database: 
+* Information about criminals stored in database: <br>
 [Dawood Ibrahim](https://en.wikipedia.org/wiki/Dawood_Ibrahim) <br>
 [Osama Bin Laden](https://en.wikipedia.org/wiki/Osama_bin_Laden) <br>
 [Saddam Hussein](https://en.wikipedia.org/wiki/Saddam_Hussein) <br>
