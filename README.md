@@ -93,7 +93,7 @@ All the criminals stored in the database (labeled_images folder) can be recognis
 
 ### Criminal Information
 
-If the criminal's image is recognised then we can retrieve the information about him like his date of birth, criminal charge etc. by clicking his name or pressing the initial key of his name on keyboard,
+If the criminal's image is recognised then information about him like his date of birth, criminal charge etc. can be retrieved by clicking his name or pressing the initial key of his name on keyboard.
 
 <img src="readme_images/criminalInfo.PNG" alt="Criminal Information" width="700"/>
 
