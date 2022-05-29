@@ -9,7 +9,7 @@
 <p align="center">
  <a target="_blank" href="https://cybercop-criminal-face-recognition.netlify.app/">Link to the Web Application</a>
     |
- <a target="_blank" href="#">Video Demo</a>
+ <a target="_blank" href="https://drive.google.com/file/d/1kiwclH6fi49i8qIgZU4UydFaIl0KWpeR/view?usp=sharing">Video Demo</a>
 </p>    
     
 <details open="open">
