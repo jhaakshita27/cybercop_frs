@@ -24,13 +24,6 @@
       </ul>
     </li>
     <li>
-      <a href="#aim-of-project">Aim of project</a>
-      <ul>
-        <li><a href="#evaluation-of-the-traits-of-an-individual">Evaluation of the traits of an individual</a></li>
-        <li><a href="#determinition-of-overall-personality">Determinition of overall personality</a></li>
-      </ul>
-    </li>
-    <li>
       <a href="#navigating-through-the-webapp">Navigating through the webapp</a>
       <ul>
         <li><a href="#steps-undertaken">Steps undertaken</a></li>
@@ -79,7 +72,7 @@ Laptops, Desktops and Tablet PCs
 
 Home page is the frontend design of Cyber Cop where user can read about the system, get the contact details and know the steps to use the facial recognition application.
 
-<img src="readme_images/home2.PNG" alt="home screen" width="700"/>
+<img src="readme _images/home2.PNG" alt="home screen" width="700"/>
 
 ### Upload Image
 
