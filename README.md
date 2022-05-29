@@ -27,7 +27,7 @@
       <a href="#navigating-through-the-webapp">Navigating through the webapp</a>
       <ul>
         <li><a href="#steps-undertaken">Steps undertaken</a></li>
-        <li><a href="#home-page">Steps undertaken</a></li>
+        <li><a href="#home-page">Home Page</a></li>
         <li><a href="#upload-image">Upload Image</a></li>
         <li><a href="#criminal-information">Criminal Information</a></li>
         </ul>
