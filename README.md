@@ -2,7 +2,7 @@
 </h1>
   <h1 align="center">
   
- <img src="readme _images/logo.PNG" alt="Logo" width="130" height="65">
+ <img src="readme _images/logo.PNG" alt="Logo" width="160" height="65">
     </h1>
      
     
