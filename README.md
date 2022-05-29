@@ -2,7 +2,7 @@
 </h1>
   <h1 align="center">
   
- <img src="readme _images/logo.PNG" alt="Logo" width="100" height="65">
+ <img src="readme _images/logo.PNG" alt="Logo" width="130" height="65">
     </h1>
      
     
@@ -78,11 +78,11 @@ Home page is the frontend design of Cyber Cop where user can read about the syst
 
 After Clicking face match button, an upload image button appears through which any image can be uploaded by the user. 
 
-<img src="readme_images/upload.PNG" alt="upload image page" width="700"/>
+<img src="readme _images/upload.PNG" alt="upload image page" width="700"/>
 
 All the criminals stored in the database (labeled_images folder) can be recognised in the uploaded image. Unknown will be displayed for unrecognised detected faces.
 
-<img src="readme_images/facerecog.PNG" alt="face recognition" width="700"/>
+<img src="readme _images/facerecog.PNG" alt="face recognition" width="700"/>
 
 ### Criminal Information
 
